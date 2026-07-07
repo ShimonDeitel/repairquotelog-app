@@ -1,0 +1,29 @@
+{
+  "identifier" : "com.shimondeitel.quotelog.pro",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.quotelog.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Pro features",
+          "displayName" : "Home Repair Quote Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.quotelog.pro",
+      "referenceName" : "Home Repair Quote Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
